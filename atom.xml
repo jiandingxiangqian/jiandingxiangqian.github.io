@@ -6,7 +6,7 @@
   <link href="http://blog.xiaoyus.online/atom.xml" rel="self"/>
   
   <link href="http://blog.xiaoyus.online/"/>
-  <updated>2024-06-27T16:26:36.119Z</updated>
+  <updated>2024-10-16T13:35:37.207Z</updated>
   <id>http://blog.xiaoyus.online/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://blog.xiaoyus.online/posts/d87f7e0c.html"/>
+    <id>http://blog.xiaoyus.online/posts/d87f7e0c.html</id>
+    <published>2024-10-16T13:35:37.000Z</published>
+    <updated>2024-10-16T13:35:37.207Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
