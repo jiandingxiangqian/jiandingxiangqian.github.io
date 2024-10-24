@@ -1,37 +1,4 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 4552909 */
-  /* Color fonts */
-  src: 
-       url('//at.alicdn.com/t/c/font_4552909_1b3qthkqzvd.woff2?t=1729617550242') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4552909_1b3qthkqzvd.woff?t=1729617550242') format('woff'),
-       url('//at.alicdn.com/t/c/font_4552909_1b3qthkqzvd.ttf?t=1729617550242') format('truetype');
-}
-
-.iconfont {
-  font-family: "iconfont" !important;
-  font-size: 16px;
-  font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.icon-rss:before {
-  content: "\e654";
-}
-
-.icon-github:before {
-  content: "\e64c";
-}
-
-.icon-weixin:before {
-  content: "\e607";
-}
-
-.icon-qq:before {
-  content: "\e60c";
-}
-
-@font-face {
     font-family: 'Noto Sans Simplified Chinese'; /* 自定义字体名称 */
     src: url('/fonts/NotoSansSC-Regular.ttf'); /* 字体文件的路径 */
   }
